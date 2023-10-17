@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tiky.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tiky0000" x="0" y="0" width="1710" height="1818" frameX="-2" frameY="-4" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0001" x="1710" y="0" width="1703" height="1781" frameX="-1" frameY="-26" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0002" x="3413" y="0" width="1714" height="1816" frameX="-5" frameY="-20" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0003" x="5127" y="0" width="1706" height="1777" frameX="0" frameY="-26" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0004" x="0" y="1818" width="1721" height="1811" frameX="-1" frameY="-21" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0005" x="1721" y="1818" width="1707" height="1814" frameX="-7" frameY="0" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0006" x="3428" y="1818" width="1710" height="1818" frameX="-2" frameY="-4" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0007" x="5138" y="1818" width="1703" height="1781" frameX="-1" frameY="-26" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0008" x="0" y="3636" width="1714" height="1816" frameX="-5" frameY="-20" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0009" x="1714" y="3636" width="1706" height="1777" frameX="0" frameY="-26" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0010" x="3420" y="3636" width="1721" height="1811" frameX="-1" frameY="-21" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0011" x="5141" y="3636" width="1707" height="1814" frameX="-7" frameY="0" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0012" x="0" y="5452" width="1710" height="1818" frameX="-2" frameY="-4" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0013" x="1710" y="5452" width="1703" height="1781" frameX="-1" frameY="-26" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0014" x="3413" y="5452" width="1714" height="1816" frameX="-5" frameY="-20" frameWidth="1722" frameHeight="1836"/>
+	<SubTexture name="tiky0015" x="5127" y="5452" width="1706" height="1777" frameX="0" frameY="-26" frameWidth="1722" frameHeight="1836"/>
+</TextureAtlas>

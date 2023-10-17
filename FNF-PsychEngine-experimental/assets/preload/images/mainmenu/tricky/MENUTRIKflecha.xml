@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MENUTRIKflecha.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="first0000" x="0" y="0" width="256" height="512"/>
+	<SubTexture name="second0000" x="256" y="0" width="256" height="512"/>
+	<SubTexture name="third0000" x="512" y="0" width="256" height="512"/>
+</TextureAtlas>

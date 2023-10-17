@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="suprise.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Símbolo 430000" x="1" y="1" width="694" height="542" frameX="-334" frameY="-1581" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430001" x="696" y="1" width="658" height="642" frameX="-333" frameY="-1159" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430002" x="1355" y="1" width="389" height="1139" frameX="-591" frameY="-552" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430003" x="1745" y="1" width="1430" height="548" frameX="0" frameY="-770" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430004" x="3176" y="1" width="920" height="1214" frameX="-263" frameY="-211" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430005" x="3176" y="1" width="920" height="1214" frameX="-263" frameY="-211" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430006" x="4097" y="1" width="920" height="1195" frameX="-263" frameY="-230" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430007" x="4097" y="1" width="920" height="1195" frameX="-263" frameY="-230" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430008" x="5018" y="1" width="921" height="1195" frameX="-262" frameY="-230" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430009" x="5018" y="1" width="921" height="1195" frameX="-262" frameY="-230" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430010" x="5940" y="1" width="921" height="1192" frameX="-261" frameY="-231" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430011" x="5940" y="1" width="921" height="1192" frameX="-261" frameY="-231" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430012" x="6862" y="1" width="921" height="1191" frameX="-260" frameY="-231" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430013" x="6862" y="1" width="921" height="1191" frameX="-260" frameY="-231" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430014" x="1" y="1216" width="921" height="1188" frameX="-259" frameY="-232" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430015" x="1" y="1216" width="921" height="1188" frameX="-259" frameY="-232" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430016" x="923" y="1216" width="1194" height="290" frameX="-229" frameY="-1099" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430017" x="2118" y="1216" width="790" height="1508" frameX="-394" frameY="0" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430018" x="2909" y="1216" width="1543" height="365" frameX="-532" frameY="-1380" frameWidth="2075" frameHeight="2123"/>
+	<SubTexture name="Símbolo 430019" x="4453" y="1216" width="1009" height="1192" frameX="-671" frameY="-587" frameWidth="2075" frameHeight="2123"/>
+</TextureAtlas>

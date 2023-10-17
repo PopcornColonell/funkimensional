@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="right_mountain.png">
+<SubTexture name="right mountain anim0000" x="11013" y="2123" width="238" height="249" frameX="0" frameY="-1359" frameWidth="6534" frameHeight="5579" />
+<SubTexture name="right mountain anim0001" x="10448" y="3845" width="643" height="673" frameX="-26" frameY="-1172" frameWidth="6534" frameHeight="5579" />
+<SubTexture name="right mountain anim0002" x="9367" y="3845" width="1081" height="1132" frameX="-32" frameY="-939" frameWidth="6534" frameHeight="5579" />
+<SubTexture name="right mountain anim0003" x="9367" y="2123" width="1646" height="1722" frameX="-34" frameY="-692" frameWidth="6534" frameHeight="5579" />
+<SubTexture name="right mountain anim0004" x="9367" y="0" width="2028" height="2123" frameX="-41" frameY="-511" frameWidth="6534" frameHeight="5579" />
+<SubTexture name="right mountain anim0005" x="6770" y="5242" width="2411" height="2523" frameX="-76" frameY="-331" frameWidth="6534" frameHeight="5579" />
+<SubTexture name="right mountain anim0006" x="3710" y="5242" width="3060" height="3204" frameX="-264" frameY="-165" frameWidth="6534" frameHeight="5579" />
+<SubTexture name="right mountain anim0007" x="0" y="5242" width="3710" height="3883" frameX="-470" frameY="0" frameWidth="6534" frameHeight="5579" />
+<SubTexture name="right mountain anim0008" x="5008" y="0" width="4359" height="4563" frameX="-816" frameY="-59" frameWidth="6534" frameHeight="5579" />
+<SubTexture name="right mountain anim0009" x="0" y="0" width="5008" height="5242" frameX="-1526" frameY="-337" frameWidth="6534" frameHeight="5579" />
+</TextureAtlas>

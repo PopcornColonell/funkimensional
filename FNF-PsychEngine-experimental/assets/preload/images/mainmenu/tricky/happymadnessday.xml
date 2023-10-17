@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="happymadnessday.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Símbolo 20000" x="1" y="1" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20001" x="1" y="1" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20002" x="1617" y="1" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20003" x="1617" y="1" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20004" x="3233" y="1" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20005" x="3233" y="1" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20006" x="3233" y="1" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20007" x="3233" y="1" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20008" x="4849" y="1" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20009" x="4849" y="1" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20010" x="6465" y="1" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20011" x="6465" y="1" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20012" x="1" y="1459" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20013" x="1" y="1459" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20014" x="1" y="1459" width="1615" height="1457"/>
+	<SubTexture name="Símbolo 20015" x="1" y="1459" width="1615" height="1457"/>
+</TextureAtlas>

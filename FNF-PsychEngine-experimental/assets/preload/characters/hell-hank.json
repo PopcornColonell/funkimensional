@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "reload",
+			"fps": 24,
+			"name": "reloading epicly",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				12
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "failleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				16
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "faildown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				88
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "failup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "failright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hell-hank",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hank",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		7,
+		51
+	],
+	"camera_position": [
+		-150,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				163
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				-19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				309
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-303,
+				52
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-46
+			],
+			"anim": "meow",
+			"fps": 24,
+			"name": "meow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				307,
+				888
+			],
+			"anim": "BADASSLASER",
+			"fps": 24,
+			"name": "BADASSLASER",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/helltricky",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "helltricky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		51
+	],
+	"camera_position": [
+		-550,
+		-730
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
